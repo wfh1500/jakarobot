@@ -1,0 +1,2 @@
+jaka_jog_panel:jaka_ros_driver:jaka_rviz:robot_msgs
+-DCATKIN_DEVEL_PREFIX=/home/gaojia/jaka_ros_driver_cpp/devel -DCMAKE_INSTALL_PREFIX=/home/gaojia/jaka_ros_driver_cpp/install -G Unix Makefiles

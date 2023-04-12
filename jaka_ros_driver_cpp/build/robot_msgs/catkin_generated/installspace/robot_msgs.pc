@@ -1,0 +1,8 @@
+prefix=/home/gaojia/jaka_ros_driver_cpp/install
+
+Name: robot_msgs
+Description: Description of robot_msgs
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs message_generation roscpp rospy std_msgs message_runtime

@@ -1,0 +1,8 @@
+prefix=/home/gaojia/jaka_ros_driver_cpp/install
+
+Name: jaka_jog_panel
+Description: Description of jaka_jog_panel
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ljaka_jog_panel
+Requires: roscpp rospy std_msgs pluginlib sensor_msgs geometry_msgs

@@ -1,0 +1,8 @@
+prefix=/home/gaojia/jaka_ros_driver_cpp/install
+
+Name: jaka_rviz
+Description: Description of jaka_rviz
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

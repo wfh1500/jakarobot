@@ -1,0 +1,8 @@
+prefix=/home/gaojia/jaka_ros_driver_cpp/install
+
+Name: jaka_ros_driver
+Description: Description of jaka_ros_driver
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ljaka_ros_driver
+Requires: geometry_msgs roscpp rospy sensor_msgs std_msgs message_runtime std_srvs
